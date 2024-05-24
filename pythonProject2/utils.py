@@ -1,3 +1,13 @@
+"""
+This module provides basic arithmetic operations.
+
+Functions:
+    - add(a: int, b: int) -> int: Returns the sum of two integers.
+    - subtract(a: int, b: int) -> int: Returns the difference between two integers.
+    - multiply(a: int, b: int) -> int: Returns the product of two integers.
+    - divide(a: int, b: int) -> float: Returns the quotient of two integers.
+"""
+
 def add(a: int, b: int) -> int:
     """
     Adds two integers.
