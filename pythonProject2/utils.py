@@ -8,6 +8,7 @@ Functions:
     - divide(a: int, b: int) -> float: Returns the quotient of two integers.
 """
 
+
 def add(a: int, b: int) -> int:
     """
     Adds two integers.
